@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/juno/juno/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
+```
+
+    
